@@ -6,7 +6,7 @@ TECNOLOGIAS:
 
 
 ![image](https://user-images.githubusercontent.com/37475982/230406685-1dde00a1-244a-48ef-b1f8-190e3623b455.png)
-![image](https://user-images.githubusercontent.com/37475982/230407603-648ffc88-6d7d-4000-929b-e2625e2c7b14.png)
+![image](https://user-images.githubusercontent.com/37475982/230443447-3fca8181-4773-4f30-b4b9-ba5b3773a2d0.png)
 ![image](https://user-images.githubusercontent.com/37475982/230408257-1e61e877-15b8-41b5-ae87-e0ffdd52b1b6.png)
 ![image](https://user-images.githubusercontent.com/37475982/230442840-996bbecd-7af7-4982-be3e-a4202aaff26d.png)
 ![image](https://user-images.githubusercontent.com/37475982/230411155-b17a014b-a385-44b1-a0a3-64dcc3a1b4a5.png)
