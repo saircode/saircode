@@ -1,5 +1,5 @@
-👋 Hola, soy Sair Sánchez. Quizá no hay mucho aqui (por ahora). La mayoria de proyectos en los que he trabajado son de interés privado. Pero ya estoy trabajando en cargar proyectos públicos para que los puedas ver y sepas más acerca de mi trabajo. 
-por ahora te invito a contactarme a través de mi correo sairjsanchez@gmail.com
+👋 Hola, soy Sair Sánchez. La mayoria de proyectos en los que he trabajado son de interés privado. Pero ya estoy trabajando en cargar proyectos públicos para que los puedas ver y sepas más acerca de mi trabajo. 
+Te invito a contactarme a través de mi correo sairjsanchez@gmail.com para mas información.
 
 
 TECNOLOGIAS: 
@@ -17,4 +17,4 @@ TECNOLOGIAS:
 
 
 
-Más sobre mi en [sairsanchez.com](https://sairsanchez.com/)
+Más sobre mi en [saircode.com](https://saircode.com/)
